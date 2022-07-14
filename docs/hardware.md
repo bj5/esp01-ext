@@ -1,5 +1,7 @@
 # esp01-ext
 
+![pcb](https://github.com/bj5/esp01-ext/blob/main/docs/esp01-ext.svg)
+
 esp01-ext is a extention board for esp-01/01s,come with
 - usb-serail chip 
 - 4 pin serial io connect
@@ -7,7 +9,7 @@ esp01-ext is a extention board for esp-01/01s,come with
 
 ![pcb](https://github.com/bj5/esp01-ext/blob/main/docs/esp01-ext-3d.png)
 
-![pcb](https://github.com/bj5/esp01-ext/blob/main/docs/esp01-ext.svg)
+
 ## Resources
 
 - [esp01/01S official documentation](https://docs.ai-thinker.com/en/esp8266)
