@@ -2,7 +2,7 @@
 
 > Rust Board Support Package (BSP) which provides a type-safe API for the [esp01-ext](https://github.com/bj5/esp01-ext/blob/main/docs/hardware.md) with esp-01/esp-01s.
 
-![pcb](https://github.com/bj5/esp01-ext/blob/main/docs/esp01-ext.svg)
+![pcb](https://github.com/bj5/esp01-ext/blob/main/docs/esp01-ext-3d.png)
 
 
 
