@@ -1,8 +1,8 @@
 # esp01-ext
 
-rust board support package for esp-01/esp-01s with esp01-ext
+> Rust Board Support Package (BSP) which provides a type-safe API for the [esp01-ext](https://github.com/bj5/esp01-ext/docs/hardware.md) with esp-01/esp-01s.
 
-fork by
+fork from
 
  [d1 mini](https://github.com/jessebraham/d1-mini)
 
@@ -13,7 +13,7 @@ esp01-ext is a extention board for esp-01/01s,come with
 - a switch to  flash esp-01/01s
 
 
-> A Board Support Package (BSP) which provides a type-safe API for the [esp01-ext](https://docs.wemos.cc/en/latest/d1/d1_mini.html).
+
 
 
 ## Resources
