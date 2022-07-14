@@ -2,9 +2,9 @@
 
 > Rust Board Support Package (BSP) which provides a type-safe API for the [esp01-ext](https://github.com/bj5/esp01-ext/blob/main/docs/hardware.md) with esp-01/esp-01s.
 
-fork from
+![pcb](https://github.com/bj5/esp01-ext/blob/main/docs/esp01-ext.svg)
 
- [d1 mini](https://github.com/jessebraham/d1-mini)
+
 
 ## esp01-ext hardware
 esp01-ext is a extention board for esp-01/01s,come with
@@ -19,6 +19,7 @@ esp01-ext is a extention board for esp-01/01s,come with
 ## Resources
 
 - [esp01-ext hardware documentation](https://github.com/bj5/esp01-ext/blob/main/docs/hardware.md)
+- [d1 mini](https://github.com/jessebraham/d1-mini)
 - [esp-01/01S official documentation](https://docs.ai-thinker.com/en/esp8266)
 - [esp8266-hal](https://github.com/esp-rs/esp8266-hal)
 - [esp8266](https://github.com/esp-rs/esp8266)
