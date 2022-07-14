@@ -1,7 +1,4 @@
 # esp01-ext
-rust board support package for esp-01/esp-01s with esp01-ext
-
-## esp01-ext hardware
 
 esp01-ext is a extention board for esp-01/01s,come with
 - usb-serail chip 
@@ -113,4 +110,3 @@ at your option.
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in
 the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without
 any additional terms or conditions.
-

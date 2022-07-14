@@ -1,0 +1,37 @@
+[package]
+name = "esp01-ext"
+version = "0.1.0"
+authors = ["Jerry Liu <j5liu@qq.com>"]
+edition = "2018"
+description = "A Board Support Package (BSP) which provides a type-safe API for the esp01-ext"
+documentation = "https://docs.rs/esp01-ext/"
+readme = "README.md"
+repository = "https://github.com/bj5/esp01-ext"
+license = "MIT OR Apache-2.0"
+keywords = [
+    "embedded-hal",
+    "esp8266",
+    "no-std",
+    "xtensa"
+]
+categories = [
+    "embedded",
+    "hardware-support",
+    "no-std"
+]
+
+[dependencies]
+bitbang-hal = "0.3"
+esp8266-hal = "0.5"
+paste = "1.0"
+
+[dev-dependencies]
+lis3dh = "0.4"
+panic-halt = "0.2"
+
+[profile.dev]
+lto = false
+opt-level = 1
+
+[profile.release]
+lto = false
