@@ -2,6 +2,10 @@
 
 rust board support package for esp-01/esp-01s with esp01-ext
 
+fork by
+
+ [d1 mini](https://github.com/jessebraham/d1-mini)
+
 ## esp01-ext hardware
 esp01-ext is a extention board for esp-01/01s,come with
 - usb-serail chip 
